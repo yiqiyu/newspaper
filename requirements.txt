@@ -8,5 +8,5 @@ requests>=2.10.0
 feedparser>=5.2.1
 tldextract>=2.0.1
 feedfinder2>=0.0.4
-jieba3k>=0.35.1
+//jieba3k>=0.35.1
 python-dateutil>=2.5.3
